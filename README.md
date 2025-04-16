@@ -3,7 +3,7 @@
 
 <img src="photoshop.svg" alt="Adobe Photoshop Logo" width="150" />
 
-> **Professional-grade vector design on Linux**  
+> **Professional-grade photo design on Linux**  
 > A repackaged version of Adobe photoshop 2020 optimized for Linux with Wine integration.
 
 ---
