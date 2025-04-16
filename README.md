@@ -1,0 +1,1 @@
+# photoshop-2020-linux
