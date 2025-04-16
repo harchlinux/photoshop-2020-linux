@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Photoshop 2020
+Type=Application
+Exec=bash /bin/photoshop-2020
+StartupNotify=true
+Comment=Photoshop 2020 for Linux
+Icon=/opt/photoshop-2020/photoshop.png
+StartupWMClass=photoshop.exe
