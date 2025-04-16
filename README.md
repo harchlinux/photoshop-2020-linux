@@ -63,8 +63,9 @@ sudo pacman -U illustrator-cc-wine-17-1-x86_64.pkg.tar.zst
 | **Deps**      | wine, winetricks, lib32-*     |
 
 ---
-
 ## 🖥️ Usage
+<img src="photoshop-welcome.png" alt="Photoshop Welcome" width="60%"  />
+
 ### CLI Launch
 ```bash
 photoshop-2020
