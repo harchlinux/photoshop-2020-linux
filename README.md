@@ -41,8 +41,8 @@ sudo pacman -Syu archlinuxcn-keyring
 ```
 ### install with easy installer
 ```bash
-wget https://github.com/harchlinux/illustratorcc17-linux/releases/download/1.5.0/illustrator-cc-wine-17-1-x86_64.pkg.tar.zst
-sudo pacman -U illustrator-cc-wine-17-1-x86_64.pkg.tar.zst
+wget https://github.com/harchlinux/photoshop-2020-linux/releases/download/17.0.0/photoshop-2020-wine-17-1-x86_64.pkg.tar.zst
+sudo pacman -U ./photoshop-2020-wine-17-1-x86_64.pkg.tar.zst
 
 ```
 # Post-install setup (automatic)
