@@ -1,7 +1,7 @@
 
 # Adobe photoshop 2020 v20) for Linux via Wine
 
-![Adobe photoshop Logo](photoshop.png)
+<img src="photoshop.svg" alt="Adobe Photoshop Logo" width="150" />
 
 > **Professional-grade vector design on Linux**  
 > A repackaged version of Adobe photoshop 2020 optimized for Linux with Wine integration.
